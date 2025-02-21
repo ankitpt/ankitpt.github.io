@@ -11,3 +11,12 @@ Gemfile.lock
 # Ingore files created by npm
 node_modules
 package-lock.json
+
+# Ignore the contents of the .bundle directory
+.bundle/
+
+# Ignore the contents of the .jekyll-cache directory
+.jekyll-cache/
+
+# Ignore the contents of the vendor directory
+vendor/
