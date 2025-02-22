@@ -12,7 +12,7 @@ title                    : "Ankit"
 theme                    : "jekyll-theme-architect" 
 title_separator          : "-"
 name                     : &name "Ankit"
-description              : &description "ML Engieer with 4 years of experience"
+description              : &description "Engineering AI Solutions for Real-World Impact"
 url                      : https://ankitpt.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ankitpt/ankitpt.github.io"
@@ -22,10 +22,10 @@ repository               : "ankitpt/ankitpt.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "me.png"
   name             : "Ankit Patel"
   pronouns         : "he/him"  
-  bio              : "ML Engineer with 4 years of experience"
+  bio              : "Engineering AI Solutions for Real-World Impact"
   location         : "Berkeley, CA"
   #employer         : "Red Brick University"
   #uri              : # URL
@@ -33,7 +33,10 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
+  linkedin         : "ankitpt" # Username
+  github           : "ankitpt"
   googlescholar    : "https://scholar.google.com/citations?user=5jJzES0AAAAJ&hl=en"
+  medium           : "https://medium.com/@ankit-patel03" # URL
   #impactstory      : # URL
   #orcid            : "http://orcid.org/yourorcidurl"
   #semantic         : # URL
@@ -45,7 +48,6 @@ author:
   #bitbucket        : # Username - Update with your username on the site
   #codepen          : # Username
   #dribbble         : # Username
-  github           : "ankitpt"
   #kaggle           : # Username  
   #stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -59,9 +61,7 @@ author:
   #keybase          : # Username
   #instagram        : # Username
   #lastfm           : # Username
-  linkedin         : "ankitpt" # Username
   #mastodon         : # URL
-  medium           : "https://medium.com/@ankit-patel03" # URL
   #pinterest        : # Username
   #soundcloud       : # Username
   #steam            : # Username

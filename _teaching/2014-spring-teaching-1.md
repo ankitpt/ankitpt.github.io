@@ -1,20 +1,15 @@
 ---
-title: "Teaching experience 1"
+title: "CE203: Principle of Geomatics"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/geomatics
+venue: "Purdue University"
+#date: 2019-12-15
+terms: "Fall 2018, Spring 2019 and Fall 2019"
+location: "West Lafayette, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Teaching Assistant across three consecutive semesters. Responsibilities included:
+* Delivered lectures during weekly lab session, held office hours and graded weekly lab report submissions
+* Taught students operation of surveying instruments: Total station and GPS
+* Provided instruction on industry-standard software: ArcGIS and PIX4D
