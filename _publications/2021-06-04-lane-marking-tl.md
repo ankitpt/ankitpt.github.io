@@ -2,7 +2,7 @@
 title: "Transfer learning for LiDAR-based lane marking detection and intensity profile generation"
 collection: publications
 category: manuscripts
-permalink: /publications/2024-01-01-lane-marking-extraction-transfer-learning
+permalink: /publications/2021-06-04-lane-marking-tl
 excerpt: 'This paper fine-tunes a U-Net model for LiDAR-based lane marking extraction, achieving high accuracy while enabling automated detection of worn-out markings.'
 date: 2021-06-04
 venue: 'Geomatics'

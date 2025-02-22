@@ -2,7 +2,7 @@
 title: "LiDAR-based lane marking extraction through intensity thresholding and deep learning approaches: a pavement-based assessment"
 collection: publications
 category: manuscripts
-permalink: /publications/2024-01-01-lane-marking-extraction-pavement-assessment
+permalink: /publications/2020-08-21-lane-marking-surface
 excerpt: 'This paper improves lane marking extraction across asphalt and concrete using intensity normalization and deep learning.'
 date: 2020-08-21
 venue: 'The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences'

@@ -2,7 +2,7 @@
 title: "Intensity thresholding and deep learning based lane marking extraction and lane width estimation from mobile light detection and ranging (LiDAR) point clouds"
 collection: publications
 category: manuscripts
-permalink: /publications/2024-01-01-lane-marking-extraction
+permalink: /publications/2021-04-27-lane-marking-extraction
 excerpt: 'This paper dives into lane marking extraction using LiDAR intensity normalization and deep learning, achieving higher accuracy for automated road monitoring.'
 date: 2021-04-27
 venue: 'Remote Sensing'
